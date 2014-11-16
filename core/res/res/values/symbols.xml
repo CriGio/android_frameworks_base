@@ -2084,8 +2084,10 @@
   <java-symbol name="global_action_reboot" type="string" />
 
   <!-- Power menu reboot recovery -->
+  <java-symbol name="ic_lock_power_rebootrecovery" type="drawable" />
   <java-symbol name="global_action_rebootrecovery" type="string" />
 
   <!-- Power menu reboot bootloader -->
+  <java-symbol name="ic_lock_power_rebootbootloader" type="drawable" />
   <java-symbol name="global_action_rebootbootloader" type="string" />
 </resources>
