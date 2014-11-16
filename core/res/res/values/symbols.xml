@@ -2085,4 +2085,7 @@
 
   <!-- Power menu reboot recovery -->
   <java-symbol name="global_action_rebootrecovery" type="string" />
+
+  <!-- Power menu reboot bootloader -->
+  <java-symbol name="global_action_rebootbootloader" type="string" />
 </resources>

@@ -4902,4 +4902,7 @@
 
     <!-- Reboot to recovery -->
     <string name="global_action_rebootrecovery">Reboot recovery</string>
+
+    <!-- Reboot to bootloader -->
+    <string name="global_action_rebootbootloader">Reboot bootloader</string>
 </resources>
